@@ -1,6 +1,10 @@
-# here is a commetn
+# ROSTER FILE, PRO FOOTBALL COACH
+# This roster file must have 32 teams.
+# It must be in order of divisions: 
+# AMNOR, AMEAS, AMSOU, AMWES, NANOR, NAEAS, NASOU, NAWES
+# Team Name, Team Abbr
 CIN Tigers,CIN
-# lonasdfor iasjodf 
+#  Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Money, Years
 QB,Lucius Manning,33,2004,85,57,68,78,85,64,8.2,1
 QB,Lamar Theo,27,2010,83,56,65,64,91,74,9.3,1
 RB,Peter Andre,31,2008,71,53,78,71,76,87,4.4,3
@@ -50,6 +54,7 @@ LB,Andre Randall,32,2006,56,73,66,60,67,68,0.5,1
 LB,Malik Jimmy,22,2016,79,72,80,56,64,64,0.5,1
 LB,Eli Blewitt,29,2009,65,77,55,58,55,69,0.5,1
 END_PLAYERS
+# The END_PLAYERS tag marks the end of one team's roster
 BAL Blackbirds,BAL
 QB,Omarr Mark,36,2003,84,71,64,84,80,62,7.7,3
 QB,Harry Dennis,28,2011,65,51,79,67,78,73,6.7,3
