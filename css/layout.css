@@ -371,12 +371,7 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: python 2s ease;
 }
 .android {
-    width: 40%;
-    -moz-animation: python 2s ease;
-    -webkit-animation: python 2s ease;
-}
-.ada {
-    width: 30%;
+    width: 85%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
